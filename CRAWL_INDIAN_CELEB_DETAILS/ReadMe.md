@@ -11,6 +11,7 @@ WEBSITE USED AS INPUT:
   - https://www.imdb.com/list/ls099354268/
   
 OUTPUT :
+
   -Celeb_list.csv
   
   -Data can be loaded onto Mongodb 
