@@ -12,7 +12,10 @@ WEBSITE USED AS INPUT:
   
 OUTPUT :
   -Celeb_list.csv
+  
   -Data can be loaded onto Mongodb 
+  
         - database name ="celeb" 
+        
         - collection name ="celeb"
   
