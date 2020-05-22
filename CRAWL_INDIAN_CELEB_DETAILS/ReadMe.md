@@ -8,6 +8,7 @@ This technique mostly focuses on the transformation of unstructured data (HTML f
 Crawl popular websites & create a database of Indian movie celebrities with their images and details.
 
 ### Website : IMDB
+### [Content license](https://m.imdb.com/licensing/?ref_=cou_2)
 
 ### Requirements
 
